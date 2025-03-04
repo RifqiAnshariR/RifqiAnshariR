@@ -1,32 +1,42 @@
-# 👋 About Me
-Hello! I'm **Your Name**, a passionate developer interested in **Data Science, Machine Learning, and Web Development**.
+# Rifqi AR
 
-![Profile Image](https://yourimageurl.com/image.png)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+## 👋 About Me
+Hello! I'm **Rifqi**, a passionate developer interested in **Machine Learning, Data Science, and Web Development**.
+
+<!-- ![Profile Image](https://yourimageurl.com/image.png) -->
 
 🌍 Location: Indonesia  
 🕒 Timezone: GMT+7  
-🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
+🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 
 ## 🚀 Interests & Skills  
-- **Competitive Programming** 🏆  
-  - Actively training for **Olympiad in Informatics**  
-  - Regular participant in coding contests  
+- **Machine Learning & Data Science** 📊  
+  - Experienced with **Python, SQL, and RDBMS Concepts**  
+  - Familiar with **Machine Learning (Regression, Clustering)**  
 - **Web Development** 🌐  
-  - Focusing on **User Experience & Design Psychology**  
-  - Building projects showcased on [yourwebsite.com](https://yourwebsite.com)  
-- **Programming Languages** 💻  
-  - Proficient: Python, JavaScript, C++  
-  - Exploring: Rust, Go  
+  - Building projects using **Flask, Hapi.js, and SQLite/MySQL**  
+  - Developing **Web-Server, API-Server**  
+- **Programming & Problem Solving** 💻  
+  - Proficient: Python, SQL, JavaScript  
+  - Exploring: C++, C#, .NET
+- **Cloud & Security** ☁️🔒  
+  - Certified in **Alibaba Cloud Security-Associate**  
+  - Learning **Azure**  
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RifqiAnshariR&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifqiAnshariR&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
 
 ## 🎯 Current Learning Goals  
-- Mastering **Data Structures & Algorithms**  
-- Learning more about **AI & Cloud Computing**  
-- Expanding knowledge in **Cybersecurity & Reverse Engineering**  
+- Deepening **Machine Learning & AI** knowledge  
+- Expanding skills in **Data Science & Database Engineering**  
+- Gaining expertise in **Web Development & Cybersecurity**  
 
 ## 📫 Connect with me  
 - 📨 Email: [your@email.com](mailto:your@email.com)  
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)  
 - 🔗 LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)  
-- 💻 GitHub: [yourgithub](https://github.com/yourgithub)
