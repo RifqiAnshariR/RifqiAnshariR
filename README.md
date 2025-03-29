@@ -1,25 +1,22 @@
 ```xml
+<?xml version="1.0" encoding="UTF-8"?>
 <profile>
     <name>Rifqi Anshari R.</name>
     <about>Passionate in Data Science, Machine Learning, and Web Development</about>
     <location>Jakarta, Indonesia (GMT+7)</location>
     <portfolio>https://rifqiansharir.github.io</portfolio>
     <stack>
-        <core>
-            <lang>Python, SQL, JavaScript, C++</lang>
-            <db>MySQL, SQLite</db>
-            <cloud>Alibaba Cloud, Microsoft Azure</cloud>
-        </core>
-        <tool>
-            <ds>Pandas, NumPy, Matplotlib, Seaborn, Streamlit, PyQt</ds>
-            <ml>PyTorch, TensorFlow, Scikit-learn, OpenCV</ml>
-            <web>Flask, Hapi.js, Node.js, REST API, HTML, CSS</web>
-        </tool>
+        <lang>Python, JavaScript, C++, SQL, HTML, CSS, LaTeX, MATLAB</lang>
+        <db>MySQL, SQLite</db>
+        <cloud>Alibaba Cloud, Microsoft Azure</cloud>
+        <lib>Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV, PyQt, Streamlit, Selenium</lib>
+        <framework>TensorFlow, PyTorch, Flask, Hapi.js, Node.js</framework>
+        <api>REST API</api>
     </stack>
     <device>PC (i7-4790, RX 550) &amp; Laptop (Ryzen 5 5500U)</device>
     <contact>
-        <email>mailto:rifqi.anshari@ui.ac.id</email>
-        <linkedin>www.linkedin.com/in/rifqi-anshari-rasyid</linkedin>
+        <email>rifqi.anshari@ui.ac.id</email>
+        <linkedin>https://www.linkedin.com/in/rifqi-anshari-rasyid</linkedin>
     </contact>
 </profile>
 ```
