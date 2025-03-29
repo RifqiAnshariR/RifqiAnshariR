@@ -13,9 +13,9 @@
         </tool>
         <cloud>Alibaba Cloud, Microsoft Azure</cloud>
     </stack>
-    <device>PC (i7-4790, RX 550) & Laptop (Ryzen 5 5500U)</device>
+    <device>PC (i7-4790, RX 550) &amp; Laptop (Ryzen 5 5500U)</device>
     <contact>
         <email>mailto:rifqi.anshari@ui.ac.id</email>
         <linkedin>www.linkedin.com/in/rifqi-anshari-rasyid</linkedin>
     </contact>
-</profile> 
+</profile>
