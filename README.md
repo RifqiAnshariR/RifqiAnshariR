@@ -5,13 +5,16 @@
     <location>Jakarta, Indonesia (GMT+7)</location>
     <portfolio>https://rifqiansharir.github.io</portfolio>
     <stack>
-        <language>Python, SQL, JavaScript, C++</language>
+        <core>
+            <lang>Python, SQL, JavaScript, C++</lang>
+            <db>MySQL, SQLite</db>
+            <cloud>Alibaba Cloud, Microsoft Azure</cloud>
+        </core>
         <tool>
-            <python>Pandas, NumPy, Matplotlib, Seaborn, Streamlit, PyQt, PyTorch, TensorFlow, Flask</python>
-            <javascript>Node.js, Hapi.js, REST API</javascript>
-            <database>MySQL, SQLite</database>
+            <ds>Pandas, NumPy, Matplotlib, Seaborn, Streamlit, PyQt</ds>
+            <ml>PyTorch, TensorFlow, Scikit-learn, OpenCV</ml>
+            <web>Flask, Hapi.js, Node.js, REST API, HTML, CSS</web>
         </tool>
-        <cloud>Alibaba Cloud, Microsoft Azure</cloud>
     </stack>
     <device>PC (i7-4790, RX 550) &amp; Laptop (Ryzen 5 5500U)</device>
     <contact>
@@ -19,3 +22,7 @@
         <linkedin>www.linkedin.com/in/rifqi-anshari-rasyid</linkedin>
     </contact>
 </profile>
+```
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=RifqiAnshariR&color=blue&style=flat-square" alt="Visitor Count"/>
+</p>
