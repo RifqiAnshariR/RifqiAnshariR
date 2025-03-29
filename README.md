@@ -23,8 +23,7 @@
     </contact>
 </profile>
 ```
+![snake gif](https://github.com/RifqiAnshariR/RifqiAnshariR/blob/output/github-contribution-grid-snake.gif)
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=RifqiAnshariR&color=blue&style=flat-square" alt="Visitor Count"/>
 </p>
-
-![snake gif](https://github.com/RifqiAnshariR/RifqiAnshariR/blob/output/github-contribution-grid-snake.gif)
