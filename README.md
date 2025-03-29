@@ -1,43 +1,21 @@
-# Rifqi AR
-
-## 👋 About Me
-Hello! I'm **Rifqi**, a passionate developer interested in **Machine Learning, Data Science, and Web Development**.
-
-🌍 Location: Jakarta, Indonesia  
-🕒 Timezone: GMT+7  
-🌐 Portfolio: [https://rifqiansharir.github.io](https://rifqiansharir.github.io/)  
-
-## 🚀 **Interests & Skills**  
-### 🔹 **Machine Learning & Data Science** 📊  
-- Supervised & Unsupervised Learning (Regression, Clustering)  
-- Data Analysis, Feature Engineering, Model Evaluation  
-- Data Visualization & Statistical Methods  
-
-### 🔹 **Web Development** 🌐  
-- Server-Side Development & API Services  
-- Experience with Flask, Hapi.js, SQL Databases  
-
-### 🔹 **Programming & Problem-Solving** 💻  
-- **Languages:** Python, SQL, JavaScript  
-- **Exploring:** C++, C#, .NET  
-
-### 🔹 **Cloud & Security** ☁️🔒  
-- **Certified:** Alibaba Cloud Security Associate  
-- **Learning:** Cloud Infrastructure, Security Best Practices, Microsoft Azure  
-
-## 🖥️ **Devices**  
-- **PC:** Intel i7-4790 and AMD Radeon RX 550  
-- **Laptop:** AMD Ryzen 5 5500U  
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifqiAnshariR&show_icons=true&theme=dark&cache_bust=1" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifqiAnshariR&layout=compact&theme=dark&cache_bust=1" alt="Top Languages"/>
-</p>
-
-## 📫 Connect with me  
-- 📨 Email: [rifqi.anshari@ui.ac.id](mailto:rifqi.anshari@ui.ac.id)  
-- 🔗 LinkedIn: [Rifqi Anshari Rasyid](www.linkedin.com/in/rifqi-anshari-rasyid)  
+```xml
+<profile>
+    <name>Rifqi Anshari R.</name>
+    <about>Passionate in Data Science, Machine Learning, and Web Development</about>
+    <location>Jakarta, Indonesia (GMT+7)</location>
+    <portfolio>https://rifqiansharir.github.io</portfolio>
+    <stack>
+        <language>Python, SQL, JavaScript, C++</language>
+        <tool>
+            <python>Pandas, NumPy, Matplotlib, Seaborn, Streamlit, PyQt, PyTorch, TensorFlow, Flask</python>
+            <javascript>Node.js, Hapi.js, REST API</javascript>
+            <database>MySQL, SQLite</database>
+        </tool>
+        <cloud>Alibaba Cloud, Microsoft Azure</cloud>
+    </stack>
+    <device>PC (i7-4790, RX 550) & Laptop (Ryzen 5 5500U)</device>
+    <contact>
+        <email>mailto:rifqi.anshari@ui.ac.id</email>
+        <linkedin>www.linkedin.com/in/rifqi-anshari-rasyid</linkedin>
+    </contact>
+</profile> 
