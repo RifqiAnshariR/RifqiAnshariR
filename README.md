@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <profile>
     <name>Rifqi Anshari R.</name>
-    <about>Passionate in Data Science, Machine Learning, and Web Development</about>
+    <about>Passionate in Data Science, Artificial Intelligence, and Web Development</about>
     <location>Jakarta, Indonesia (GMT+7)</location>
     <portfolio>https://rifqiansharir.github.io</portfolio>
     <stack>
