@@ -3,7 +3,7 @@
 <profile>
     <name>Rifqi Anshari R.</name>
     <about>Passionate in Data Science, Artificial Intelligence, and Web Development</about>
-    <location>Jakarta, Indonesia (GMT+7)</location>
+    <location>Jakarta</location>
     <portfolio>https://rifqiansharir.github.io</portfolio>
     <stack>
         <lang>Python, JavaScript, C++, SQL, HTML, CSS, LaTeX, MATLAB</lang>
@@ -13,7 +13,6 @@
         <framework>TensorFlow, PyTorch, Flask, Hapi.js, Node.js</framework>
         <api>REST API</api>
     </stack>
-    <device>PC (i7-4790, RX 550) &amp; Laptop (Ryzen 5 5500U)</device>
     <contact>
         <email>rifqi.anshari@ui.ac.id</email>
         <linkedin>https://www.linkedin.com/in/rifqi-anshari-rasyid</linkedin>
